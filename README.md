@@ -1,1 +1,1 @@
-# brunch
+[link](./note.md)
